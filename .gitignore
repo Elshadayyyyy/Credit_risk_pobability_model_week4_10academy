@@ -1,3 +1,5 @@
 /Data
 .venv/
 Data/
+**/__pycache__/
+*.pyc
