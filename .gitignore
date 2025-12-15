@@ -4,3 +4,5 @@ Data/
 **/__pycache__/
 *.pyc
 **/.ipynb_checkpoints/
+mlruns/
+mlflow.db
